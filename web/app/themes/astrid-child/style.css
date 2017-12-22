@@ -7,3 +7,70 @@
  Version:      1.0.0
  License:      GNU General Public License v2 or later
 */
+
+.header-subtext {
+   padding-top: 25px;
+}
+
+.container {
+   width: 100%;
+}
+
+.footer-info {
+   height: 118;
+}
+
+.email {
+   width: 100%;
+   padding-top: 70px;
+   padding-right: 30px;
+   text-align: right;
+   margin: 0px;
+   text-align: right;
+}
+.linkedin {
+   width: 100%;
+   padding-bottom: 20px;
+   padding-right: 30px;
+   text-align: right;
+   margin: 0px;
+   text-align: right;
+}
+
+.content-area {
+   width: 100% !important;
+}
+
+.site-content {
+   margin: 0px;
+}
+
+.post-6 {
+   padding-left: 80px;
+}
+
+.section {
+   padding-top: 300px;
+}
+
+.paragraph {
+   padding-top: 15px;
+}
+
+.entire-page {
+   padding: 50px;
+}
+
+.content {
+   padding-left: 70px;
+   margin-bottom: 5px;
+}
+
+.info {
+   padding-left: 110px;
+}
+
+.titles {
+   padding-left: 0px;
+   color: #4b88ea;
+}
