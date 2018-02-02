@@ -49,28 +49,20 @@
    padding-left: 80px;
 }
 
-.section {
-   padding-top: 300px;
-}
-
 .paragraph {
    padding-top: 15px;
 }
 
 .entire-page {
-   padding: 50px;
+   padding-left: 50px;
+   padding-right: 50px;
+   padding-bottom: 50px;
 }
 
 .content {
-   padding-left: 70px;
    margin-bottom: 5px;
 }
 
 .info {
    padding-left: 110px;
-}
-
-.titles {
-   padding-left: 0px;
-   color: #4b88ea;
 }
